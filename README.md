@@ -6,7 +6,7 @@ This repo gathers the latest POCs done in Celtra.
 Foursquare
 -------
 
-A full screen expanding unit for Mobile. 
+This unit is a full screen expanding banner optimized for Mobile. 
 The ad features a timeline animation in the collapsed state and a hotspots locator in the expanded one.
 
 * [preview link](http://condenast.celtra.com/preview/fb625103)
